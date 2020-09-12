@@ -1,0 +1,15 @@
+*.swp
+*~
+_*
+/target
+/builds
+/tests/curl2.sh
+.coverage
+.vscode/
+venv/
+/output/*.json
+.env
+.DS_Store
+token.pickle
+credentials.json
+get-pip.py
